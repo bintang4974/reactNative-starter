@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "name": "Bintang Ramadhan",
+      "email": "bintangramadhan@gmail.com",
+      "role": "Fullstack Developer",
+      "id": 1
+    }
+  ]
+}
